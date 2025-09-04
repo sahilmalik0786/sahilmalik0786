@@ -7,14 +7,15 @@ I love building real-world apps with clean UI and efficient backend systems.
 
 ## 🚀 Tech Highlights  
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)  
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)  
+
 
 ---
 
@@ -47,5 +48,5 @@ _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
 ## 📫 Let’s Connect  
  
-- 💼 LinkedIn: [https://www.linkedin.com/in/sahil-malik-80141a246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
+- 💼 LinkedIn: [Sahil Malik](https://www.linkedin.com/in/sahil-malik-80141a246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 Email: sahil.malik.devs@gmail.com
