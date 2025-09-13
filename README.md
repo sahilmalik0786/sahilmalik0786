@@ -7,7 +7,7 @@ I love building real-world apps with clean UI and efficient backend systems.
 
 ## 🚀 Tech Highlights
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css)](https://skillicons.dev)
 
 
 
