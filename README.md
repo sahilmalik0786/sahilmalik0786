@@ -19,6 +19,7 @@ I love building real-world apps with clean UI and efficient backend systems.
 
 | Project | Description |
 |---------|-------------|
+| [**Ashura**](https://github.com/sahilmalik0786/Ashura-ken) | A full-stack MERN Ai Chat application like Gpt and Gemini but with a prompt sharing feature where users can sahre there prompts in the community and browse others also. |
 | [**i-mage**](https://github.com/sahilmalik0786/i-mage) | A full-stack MERN application to analyze images and generate specific results of your choice without giving prompts. |
 | [**Notes App**](https://github.com/sahilmalik0786/Assignment) | A full-stack notes app with OTP auth, JWT, TanStack Query/Router, built with MERN + TypeScript. |
 | [**Moody Player**](https://github.com/sahilmalik0786/moody_player) | Media player project that recommends songs according to your mood. |
